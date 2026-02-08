@@ -16,23 +16,6 @@ Backend API cho project Pinterest clone, xây dựng bằng **Node.js + Express 
 
 ---
 
-## 📁 Project Structure (Backend)
-capstone-pinterest-api/
-├── src/
-│ ├── config/ # DB config
-│ ├── controllers/ # Controller logic
-│ ├── middlewares/ # JWT auth middleware
-│ ├── models/ # Sequelize models
-│ ├── routes/ # API routes
-│ ├── app.js
-│ └── server.js
-├── .env
-├── package.json
-└── README.md
-
-
----
-
 ## ⚙️ Setup & Run Backend
 
 ### 1️⃣ Create Database
